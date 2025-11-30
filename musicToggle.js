@@ -4,8 +4,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const body = document.body; // Referencia al cuerpo de la página
 
     const songs = [
-        { src: "sound/Its-been-long-long-time.mp3", name: "🎵 It's Been a Long, Long Time" },
-        { src: "sound/Stand-by-me.mp3", name: "         🎶 Stand By Me        " } 
+        { src: "sound/its-been-long-long-time.mp3", name: "🎵 It's Been a Long, Long Time" },
+        { src: "sound/stand-by-me.mp3", name: "         🎶 Stand By Me        " } 
     ];
 
     let currentSongIndex = 0; 
